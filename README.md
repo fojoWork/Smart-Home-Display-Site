@@ -1,2 +1,2 @@
 ***Smart Home Display system***
-Powers by *Smart Home*
+Powered by *Smart Home*
